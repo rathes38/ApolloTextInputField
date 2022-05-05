@@ -8,7 +8,7 @@
 
 import UIKit
 
-public protocol ApolloTextInputFieldDelegate: class {
+public protocol ApolloTextInputFieldDelegate: AnyObject {
     /*
      Implement this method to increase height of your TextInputField if you show success, error or warning message
      You can find your TextInputField on the basis of Tag value.
