@@ -1,0 +1,4 @@
+module ApolloTextInputField {
+    header "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField-Swift.h"
+    requires objc
+}
