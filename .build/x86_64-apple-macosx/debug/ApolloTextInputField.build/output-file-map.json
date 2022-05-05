@@ -3,75 +3,75 @@
     "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/master.swiftdeps"
   },
   "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputField+Accessibility.swift": {
-    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Accessibility.d",
-    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Accessibility.swift.o",
-    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Accessibility~partial.swiftmodule",
-    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Accessibility.swiftdeps"
+    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Accessibility.d",
+    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Accessibility.swift.o",
+    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Accessibility~partial.swiftmodule",
+    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Accessibility.swiftdeps"
   },
   "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputField+Animation.swift": {
-    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Animation.d",
-    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Animation.swift.o",
-    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Animation~partial.swiftmodule",
-    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Animation.swiftdeps"
+    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Animation.d",
+    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Animation.swift.o",
+    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Animation~partial.swiftmodule",
+    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Animation.swiftdeps"
   },
   "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputField+Delegate.swift": {
-    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Delegate.d",
-    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Delegate.swift.o",
-    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Delegate~partial.swiftmodule",
-    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Delegate.swiftdeps"
+    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Delegate.d",
+    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Delegate.swift.o",
+    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Delegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Delegate.swiftdeps"
   },
   "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputField+Interface.swift": {
-    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Interface.d",
-    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Interface.swift.o",
-    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Interface~partial.swiftmodule",
-    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Interface.swiftdeps"
+    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Interface.d",
+    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Interface.swift.o",
+    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Interface~partial.swiftmodule",
+    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Interface.swiftdeps"
   },
   "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputField+Protocol.swift": {
-    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Protocol.d",
-    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Protocol.swift.o",
-    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Protocol~partial.swiftmodule",
-    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField+Protocol.swiftdeps"
+    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Protocol.d",
+    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Protocol.swift.o",
+    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Protocol~partial.swiftmodule",
+    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField+Protocol.swiftdeps"
   },
   "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputField.swift": {
-    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField.d",
-    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField.swift.o",
-    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField~partial.swiftmodule",
-    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField.swiftdeps"
+    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField.d",
+    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField.swift.o",
+    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField~partial.swiftmodule",
+    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputField.swiftdeps"
   },
   "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputView+Delegate.swift": {
-    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputView+Delegate.d",
-    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputView+Delegate.swift.o",
-    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputView+Delegate~partial.swiftmodule",
-    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputView+Delegate.swiftdeps"
+    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputView+Delegate.d",
+    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputView+Delegate.swift.o",
+    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputView+Delegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/ApolloTextInputView+Delegate.swiftdeps"
   },
   "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/Extensions/Color+LineColor.swift": {
-    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/Color+LineColor.d",
-    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/Color+LineColor.swift.o",
-    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/Color+LineColor~partial.swiftmodule",
-    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/Color+LineColor.swiftdeps"
+    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/Color+LineColor.d",
+    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/Color+LineColor.swift.o",
+    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/Color+LineColor~partial.swiftmodule",
+    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/Color+LineColor.swiftdeps"
   },
   "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/Extensions/Date.swift": {
-    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/Date.d",
-    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/Date.swift.o",
-    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/Date~partial.swiftmodule",
-    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/Date.swiftdeps"
+    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/Date.d",
+    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/Date.swift.o",
+    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/Date~partial.swiftmodule",
+    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/Date.swiftdeps"
   },
   "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/Extensions/String.swift": {
-    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/String.d",
-    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/String.swift.o",
-    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/String~partial.swiftmodule",
-    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/String.swiftdeps"
+    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/String.d",
+    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/String.swift.o",
+    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/String~partial.swiftmodule",
+    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/String.swiftdeps"
   },
   "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/Extensions/UIFont+OpenSans.swift": {
-    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/UIFont+OpenSans.d",
-    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/UIFont+OpenSans.swift.o",
-    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/UIFont+OpenSans~partial.swiftmodule",
-    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/UIFont+OpenSans.swiftdeps"
+    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/UIFont+OpenSans.d",
+    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/UIFont+OpenSans.swift.o",
+    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/UIFont+OpenSans~partial.swiftmodule",
+    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/UIFont+OpenSans.swiftdeps"
   },
   "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/Extensions/UIView+Nib.swift": {
-    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/UIView+Nib.d",
-    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/UIView+Nib.swift.o",
-    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/UIView+Nib~partial.swiftmodule",
-    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/Extensions/UIView+Nib.swiftdeps"
+    "dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/UIView+Nib.d",
+    "object": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/UIView+Nib.swift.o",
+    "swiftmodule": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/UIView+Nib~partial.swiftmodule",
+    "swift-dependencies": "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/.build/x86_64-apple-macosx/debug/ApolloTextInputField.build/ApolloTextInputField/Extensions/UIView+Nib.swiftdeps"
   }
 }

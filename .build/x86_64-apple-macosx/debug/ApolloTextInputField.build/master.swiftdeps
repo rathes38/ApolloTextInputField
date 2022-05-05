@@ -1,10 +1,10 @@
 version: "Apple Swift version 5.5.2 (swiftlang-1300.0.47.5 clang-1300.0.29.30)"
 options: "8f91f5c080ee05dfa082fbbdc06113a444cc9a4781f02ab54a8aa8fd08142ceb"
-build_start_time: [1651743582, 772704124]
-build_end_time: [1651743591, 31543016]
+build_start_time: [1651745991, 535316944]
+build_end_time: [1651745992, 111515045]
 inputs:
   ? "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputField+Accessibility.swift"
-  : !private [1651731877, 2886056]
+  : !private [1651743746, 659907341]
   ? "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputField+Animation.swift"
   : !private [1651731877, 3024578]
   ? "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputField+Delegate.swift"
@@ -12,7 +12,7 @@ inputs:
   ? "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputField+Interface.swift"
   : !private [1651731877, 3303527]
   ? "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputField+Protocol.swift"
-  : !private [1651731877, 3468275]
+  : !private [1651744373, 701134681]
   "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputField.swift": !private [1651731877, 3940820]
   ? "/Users/ratheesh/Downloads/ApolloTextInputField/ApolloTextInputField/Sources/ApolloTextInputField/ApolloTextInputView+Delegate.swift"
   : !private [1651731877, 4337787]

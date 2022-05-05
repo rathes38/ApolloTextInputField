@@ -9,11 +9,11 @@
 /* Begin PBXAggregateTarget section */
 		"ApolloTextInputField::ApolloTextInputFieldPackageTests::ProductTarget" /* ApolloTextInputFieldPackageTests */ = {
 			isa = PBXAggregateTarget;
-			buildConfigurationList = OBJ_53 /* Build configuration list for PBXAggregateTarget "ApolloTextInputFieldPackageTests" */;
+			buildConfigurationList = OBJ_58 /* Build configuration list for PBXAggregateTarget "ApolloTextInputFieldPackageTests" */;
 			buildPhases = (
 			);
 			dependencies = (
-				OBJ_56 /* PBXTargetDependency */,
+				OBJ_61 /* PBXTargetDependency */,
 			);
 			name = ApolloTextInputFieldPackageTests;
 			productName = ApolloTextInputFieldPackageTests;
@@ -21,32 +21,32 @@
 /* End PBXAggregateTarget section */
 
 /* Begin PBXBuildFile section */
-		OBJ_33 /* ApolloTextInputField+Accessibility.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_9 /* ApolloTextInputField+Accessibility.swift */; };
-		OBJ_34 /* ApolloTextInputField+Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_10 /* ApolloTextInputField+Animation.swift */; };
-		OBJ_35 /* ApolloTextInputField+Delegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_11 /* ApolloTextInputField+Delegate.swift */; };
-		OBJ_36 /* ApolloTextInputField+Interface.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_12 /* ApolloTextInputField+Interface.swift */; };
-		OBJ_37 /* ApolloTextInputField+Protocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_13 /* ApolloTextInputField+Protocol.swift */; };
-		OBJ_38 /* ApolloTextInputField.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_14 /* ApolloTextInputField.swift */; };
-		OBJ_39 /* ApolloTextInputView+Delegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_15 /* ApolloTextInputView+Delegate.swift */; };
-		OBJ_40 /* Color+LineColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_17 /* Color+LineColor.swift */; };
-		OBJ_41 /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_18 /* Date.swift */; };
-		OBJ_42 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_19 /* String.swift */; };
-		OBJ_43 /* UIFont+OpenSans.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_20 /* UIFont+OpenSans.swift */; };
-		OBJ_44 /* UIView+Nib.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_21 /* UIView+Nib.swift */; };
-		OBJ_51 /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_6 /* Package.swift */; };
-		OBJ_62 /* ApolloTextInputFieldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_24 /* ApolloTextInputFieldTests.swift */; };
-		OBJ_64 /* ApolloTextInputField.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = "ApolloTextInputField::ApolloTextInputField::Product" /* ApolloTextInputField.framework */; };
+		OBJ_38 /* ApolloTextInputField+Accessibility.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_9 /* ApolloTextInputField+Accessibility.swift */; };
+		OBJ_39 /* ApolloTextInputField+Animation.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_10 /* ApolloTextInputField+Animation.swift */; };
+		OBJ_40 /* ApolloTextInputField+Delegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_11 /* ApolloTextInputField+Delegate.swift */; };
+		OBJ_41 /* ApolloTextInputField+Interface.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_12 /* ApolloTextInputField+Interface.swift */; };
+		OBJ_42 /* ApolloTextInputField+Protocol.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_13 /* ApolloTextInputField+Protocol.swift */; };
+		OBJ_43 /* ApolloTextInputField.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_14 /* ApolloTextInputField.swift */; };
+		OBJ_44 /* ApolloTextInputView+Delegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_15 /* ApolloTextInputView+Delegate.swift */; };
+		OBJ_45 /* Color+LineColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_17 /* Color+LineColor.swift */; };
+		OBJ_46 /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_18 /* Date.swift */; };
+		OBJ_47 /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_19 /* String.swift */; };
+		OBJ_48 /* UIFont+OpenSans.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_20 /* UIFont+OpenSans.swift */; };
+		OBJ_49 /* UIView+Nib.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_21 /* UIView+Nib.swift */; };
+		OBJ_56 /* Package.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_6 /* Package.swift */; };
+		OBJ_67 /* ApolloTextInputFieldTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = OBJ_24 /* ApolloTextInputFieldTests.swift */; };
+		OBJ_69 /* ApolloTextInputField.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = "ApolloTextInputField::ApolloTextInputField::Product" /* ApolloTextInputField.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		2A53016E2823D7E1007F5BE8 /* PBXContainerItemProxy */ = {
+		2AE2A6DF2823DB660004EA9C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "ApolloTextInputField::ApolloTextInputField";
 			remoteInfo = ApolloTextInputField;
 		};
-		2A53016F2823D7E2007F5BE8 /* PBXContainerItemProxy */ = {
+		2AE2A6E02823DB730004EA9C /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
@@ -70,23 +70,28 @@
 		OBJ_20 /* UIFont+OpenSans.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIFont+OpenSans.swift"; sourceTree = "<group>"; };
 		OBJ_21 /* UIView+Nib.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Nib.swift"; sourceTree = "<group>"; };
 		OBJ_24 /* ApolloTextInputFieldTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApolloTextInputFieldTests.swift; sourceTree = "<group>"; };
+		OBJ_28 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = SOURCE_ROOT; };
+		OBJ_29 /* Font */ = {isa = PBXFileReference; lastKnownFileType = folder; path = Font; sourceTree = SOURCE_ROOT; };
+		OBJ_30 /* ApolloTextInputField.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = ApolloTextInputField.xib; sourceTree = "<group>"; };
+		OBJ_31 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		OBJ_32 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		OBJ_6 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; path = Package.swift; sourceTree = "<group>"; };
 		OBJ_9 /* ApolloTextInputField+Accessibility.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ApolloTextInputField+Accessibility.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		OBJ_45 /* Frameworks */ = {
+		OBJ_50 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 0;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		OBJ_63 /* Frameworks */ = {
+		OBJ_68 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 0;
 			files = (
-				OBJ_64 /* ApolloTextInputField.framework in Frameworks */,
+				OBJ_69 /* ApolloTextInputField.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -110,7 +115,7 @@
 			children = (
 				OBJ_23 /* ApolloTextInputFieldTests */,
 			);
-			name = Tests;
+			path = Tests;
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_23 /* ApolloTextInputFieldTests */ = {
@@ -118,9 +123,8 @@
 			children = (
 				OBJ_24 /* ApolloTextInputFieldTests.swift */,
 			);
-			name = ApolloTextInputFieldTests;
-			path = Tests/ApolloTextInputFieldTests;
-			sourceTree = SOURCE_ROOT;
+			path = ApolloTextInputFieldTests;
+			sourceTree = "<group>";
 		};
 		OBJ_25 /* Products */ = {
 			isa = PBXGroup;
@@ -138,6 +142,11 @@
 				OBJ_7 /* Sources */,
 				OBJ_22 /* Tests */,
 				OBJ_25 /* Products */,
+				OBJ_28 /* Assets.xcassets */,
+				OBJ_29 /* Font */,
+				OBJ_30 /* ApolloTextInputField.xib */,
+				OBJ_31 /* README.md */,
+				OBJ_32 /* Info.plist */,
 			);
 			name = "";
 			sourceTree = "<group>";
@@ -147,7 +156,7 @@
 			children = (
 				OBJ_8 /* ApolloTextInputField */,
 			);
-			name = Sources;
+			path = Sources;
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_8 /* ApolloTextInputField */ = {
@@ -162,19 +171,18 @@
 				OBJ_15 /* ApolloTextInputView+Delegate.swift */,
 				OBJ_16 /* Extensions */,
 			);
-			name = ApolloTextInputField;
-			path = Sources/ApolloTextInputField;
-			sourceTree = SOURCE_ROOT;
+			path = ApolloTextInputField;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
 		"ApolloTextInputField::ApolloTextInputField" /* ApolloTextInputField */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = OBJ_29 /* Build configuration list for PBXNativeTarget "ApolloTextInputField" */;
+			buildConfigurationList = OBJ_34 /* Build configuration list for PBXNativeTarget "ApolloTextInputField" */;
 			buildPhases = (
-				OBJ_32 /* Sources */,
-				OBJ_45 /* Frameworks */,
+				OBJ_37 /* Sources */,
+				OBJ_50 /* Frameworks */,
 			);
 			buildRules = (
 			);
@@ -187,15 +195,15 @@
 		};
 		"ApolloTextInputField::ApolloTextInputFieldTests" /* ApolloTextInputFieldTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = OBJ_58 /* Build configuration list for PBXNativeTarget "ApolloTextInputFieldTests" */;
+			buildConfigurationList = OBJ_63 /* Build configuration list for PBXNativeTarget "ApolloTextInputFieldTests" */;
 			buildPhases = (
-				OBJ_61 /* Sources */,
-				OBJ_63 /* Frameworks */,
+				OBJ_66 /* Sources */,
+				OBJ_68 /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				OBJ_65 /* PBXTargetDependency */,
+				OBJ_70 /* PBXTargetDependency */,
 			);
 			name = ApolloTextInputFieldTests;
 			productName = ApolloTextInputFieldTests;
@@ -204,9 +212,9 @@
 		};
 		"ApolloTextInputField::SwiftPMPackageDescription" /* ApolloTextInputFieldPackageDescription */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = OBJ_47 /* Build configuration list for PBXNativeTarget "ApolloTextInputFieldPackageDescription" */;
+			buildConfigurationList = OBJ_52 /* Build configuration list for PBXNativeTarget "ApolloTextInputFieldPackageDescription" */;
 			buildPhases = (
-				OBJ_50 /* Sources */,
+				OBJ_55 /* Sources */,
 			);
 			buildRules = (
 			);
@@ -246,53 +254,53 @@
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		OBJ_32 /* Sources */ = {
+		OBJ_37 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 0;
 			files = (
-				OBJ_33 /* ApolloTextInputField+Accessibility.swift in Sources */,
-				OBJ_34 /* ApolloTextInputField+Animation.swift in Sources */,
-				OBJ_35 /* ApolloTextInputField+Delegate.swift in Sources */,
-				OBJ_36 /* ApolloTextInputField+Interface.swift in Sources */,
-				OBJ_37 /* ApolloTextInputField+Protocol.swift in Sources */,
-				OBJ_38 /* ApolloTextInputField.swift in Sources */,
-				OBJ_39 /* ApolloTextInputView+Delegate.swift in Sources */,
-				OBJ_40 /* Color+LineColor.swift in Sources */,
-				OBJ_41 /* Date.swift in Sources */,
-				OBJ_42 /* String.swift in Sources */,
-				OBJ_43 /* UIFont+OpenSans.swift in Sources */,
-				OBJ_44 /* UIView+Nib.swift in Sources */,
+				OBJ_38 /* ApolloTextInputField+Accessibility.swift in Sources */,
+				OBJ_39 /* ApolloTextInputField+Animation.swift in Sources */,
+				OBJ_40 /* ApolloTextInputField+Delegate.swift in Sources */,
+				OBJ_41 /* ApolloTextInputField+Interface.swift in Sources */,
+				OBJ_42 /* ApolloTextInputField+Protocol.swift in Sources */,
+				OBJ_43 /* ApolloTextInputField.swift in Sources */,
+				OBJ_44 /* ApolloTextInputView+Delegate.swift in Sources */,
+				OBJ_45 /* Color+LineColor.swift in Sources */,
+				OBJ_46 /* Date.swift in Sources */,
+				OBJ_47 /* String.swift in Sources */,
+				OBJ_48 /* UIFont+OpenSans.swift in Sources */,
+				OBJ_49 /* UIView+Nib.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		OBJ_50 /* Sources */ = {
+		OBJ_55 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 0;
 			files = (
-				OBJ_51 /* Package.swift in Sources */,
+				OBJ_56 /* Package.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		OBJ_61 /* Sources */ = {
+		OBJ_66 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 0;
 			files = (
-				OBJ_62 /* ApolloTextInputFieldTests.swift in Sources */,
+				OBJ_67 /* ApolloTextInputFieldTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		OBJ_56 /* PBXTargetDependency */ = {
+		OBJ_61 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "ApolloTextInputField::ApolloTextInputFieldTests" /* ApolloTextInputFieldTests */;
-			targetProxy = 2A53016F2823D7E2007F5BE8 /* PBXContainerItemProxy */;
+			targetProxy = 2AE2A6E02823DB730004EA9C /* PBXContainerItemProxy */;
 		};
-		OBJ_65 /* PBXTargetDependency */ = {
+		OBJ_70 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "ApolloTextInputField::ApolloTextInputField" /* ApolloTextInputField */;
-			targetProxy = 2A53016E2823D7E1007F5BE8 /* PBXContainerItemProxy */;
+			targetProxy = 2AE2A6DF2823DB660004EA9C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -325,7 +333,7 @@
 			};
 			name = Debug;
 		};
-		OBJ_30 /* Debug */ = {
+		OBJ_35 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CURRENT_PROJECT_VERSION = 1;
@@ -336,7 +344,7 @@
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 				);
 				HEADER_SEARCH_PATHS = "$(inherited)";
-				INFOPLIST_FILE = Sources/ApolloTextInputField/Info.plist;
+				INFOPLIST_FILE = Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
@@ -355,7 +363,7 @@
 			};
 			name = Debug;
 		};
-		OBJ_31 /* Release */ = {
+		OBJ_36 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CURRENT_PROJECT_VERSION = 1;
@@ -366,7 +374,7 @@
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 				);
 				HEADER_SEARCH_PATHS = "$(inherited)";
-				INFOPLIST_FILE = Sources/ApolloTextInputField/Info.plist;
+				INFOPLIST_FILE = Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				MACOSX_DEPLOYMENT_TARGET = 10.10;
@@ -410,7 +418,7 @@
 			};
 			name = Release;
 		};
-		OBJ_48 /* Debug */ = {
+		OBJ_53 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
@@ -419,28 +427,28 @@
 			};
 			name = Debug;
 		};
-		OBJ_49 /* Release */ = {
+		OBJ_54 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				LD = /usr/bin/true;
 				OTHER_SWIFT_FLAGS = "-swift-version 5 -I $(TOOLCHAIN_DIR)/usr/lib/swift/pm/ManifestAPI -sdk /Applications/Xcode13.2.1.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -package-description-version 5.5.0";
 				SWIFT_VERSION = 5.0;
-			};
-			name = Release;
-		};
-		OBJ_54 /* Debug */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
-			};
-			name = Debug;
-		};
-		OBJ_55 /* Release */ = {
-			isa = XCBuildConfiguration;
-			buildSettings = {
 			};
 			name = Release;
 		};
 		OBJ_59 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		OBJ_60 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+		OBJ_64 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
@@ -452,7 +460,7 @@
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 				);
 				HEADER_SEARCH_PATHS = "$(inherited)";
-				INFOPLIST_FILE = Sources/ApolloTextInputField/Info.plist;
+				INFOPLIST_FILE = Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @loader_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
@@ -467,7 +475,7 @@
 			};
 			name = Debug;
 		};
-		OBJ_60 /* Release */ = {
+		OBJ_65 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CLANG_ENABLE_MODULES = YES;
@@ -479,7 +487,7 @@
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 				);
 				HEADER_SEARCH_PATHS = "$(inherited)";
-				INFOPLIST_FILE = Sources/ApolloTextInputField/Info.plist;
+				INFOPLIST_FILE = Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @loader_path/../Frameworks @loader_path/Frameworks";
 				MACOSX_DEPLOYMENT_TARGET = 11.0;
@@ -506,38 +514,38 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		OBJ_29 /* Build configuration list for PBXNativeTarget "ApolloTextInputField" */ = {
+		OBJ_34 /* Build configuration list for PBXNativeTarget "ApolloTextInputField" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				OBJ_30 /* Debug */,
-				OBJ_31 /* Release */,
+				OBJ_35 /* Debug */,
+				OBJ_36 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		OBJ_47 /* Build configuration list for PBXNativeTarget "ApolloTextInputFieldPackageDescription" */ = {
+		OBJ_52 /* Build configuration list for PBXNativeTarget "ApolloTextInputFieldPackageDescription" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				OBJ_48 /* Debug */,
-				OBJ_49 /* Release */,
+				OBJ_53 /* Debug */,
+				OBJ_54 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		OBJ_53 /* Build configuration list for PBXAggregateTarget "ApolloTextInputFieldPackageTests" */ = {
-			isa = XCConfigurationList;
-			buildConfigurations = (
-				OBJ_54 /* Debug */,
-				OBJ_55 /* Release */,
-			);
-			defaultConfigurationIsVisible = 0;
-			defaultConfigurationName = Release;
-		};
-		OBJ_58 /* Build configuration list for PBXNativeTarget "ApolloTextInputFieldTests" */ = {
+		OBJ_58 /* Build configuration list for PBXAggregateTarget "ApolloTextInputFieldPackageTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				OBJ_59 /* Debug */,
 				OBJ_60 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		OBJ_63 /* Build configuration list for PBXNativeTarget "ApolloTextInputFieldTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				OBJ_64 /* Debug */,
+				OBJ_65 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
